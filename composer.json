@@ -1,5 +1,5 @@
 {
-    "name": "league/oauth2-facebook",
+    "name": "satun14/oauth2-facebook",
     "description": "Facebook OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
     "license": "MIT",
     "authors": [
@@ -19,7 +19,7 @@
     ],
     "require": {
         "php": ">=7.3",
-        "league/oauth2-client": "^2.0"
+        "league/oauth2-client": ">=2.0"
     },
     "require-dev": {
         "ext-json": "*",
